@@ -241,9 +241,9 @@ body {
   }
 
   .box2 h1 {
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
-    width: 80%;
+    width: 85%;
     margin-bottom: 20px;
   }
 
@@ -253,7 +253,7 @@ body {
   }
 
   .box2 p {
-    font-size: 28px;
+    font-size: 18px;
     margin-bottom: 20px;
   }
 
@@ -262,13 +262,13 @@ body {
   }
 
   .box5 h1 {
-    font-size: 35px;
+    font-size: 25px;
     width: 95%;
     margin-bottom: 20px;
   }
 
   .box6 h1 {
-    font-size: 35px;
+    font-size: 25px;
     width: 90%;
     margin-bottom: 20px;
   }
@@ -282,7 +282,7 @@ body {
   }
 
   .box3 h1 {
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 600;
     margin-bottom: 20px;
   }
@@ -294,7 +294,7 @@ body {
   }
 
   .box3 p {
-    font-size: 18px;
+    font-size: 15px;
     width: 95%;
     text-align: center;
     margin-bottom: 20px;
@@ -310,19 +310,19 @@ body {
 
   .box8 h1 {
     text-align: center;
-    width: 70%;
-    font-size: 35px;
+    width: 80%;
+    font-size: 30px;
     font-weight: 300;
     margin-bottom: 20px;
   }
 
   .box7 h1 {
-    font-size: 60px;
+    font-size: 45px;
     font-weight: 500;
   }
 
   .box7 p {
-    font-size: 28px;
+    font-size: 18px;
   }
 
   .box7 img {
@@ -331,7 +331,7 @@ body {
   }
 
   .box1 h1 {
-    font-size: 45px;
+    font-size: 35px;
   }
 
   .box1 img {
