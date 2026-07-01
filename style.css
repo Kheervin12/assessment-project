@@ -241,7 +241,7 @@ body {
   }
 
   .box2 h1 {
-    font-size: 60px;
+    font-size: 40px;
     text-align: center;
     width: 80%;
     margin-bottom: 20px;
@@ -275,7 +275,6 @@ body {
 
   .box6 img {
     width: 65%;
-    margin-bottom: 20px;
   }
 
   .box3 {
@@ -295,7 +294,7 @@ body {
   }
 
   .box3 p {
-    font-size: 28px;
+    font-size: 18px;
     width: 95%;
     text-align: center;
     margin-bottom: 20px;
@@ -312,7 +311,7 @@ body {
   .box8 h1 {
     text-align: center;
     width: 70%;
-    font-size: 50px;
+    font-size: 35px;
     font-weight: 300;
     margin-bottom: 20px;
   }
